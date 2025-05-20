@@ -1,5 +1,7 @@
-*Adding plugins - PlantUML, Svg, Draw*
-*Export Obsidian*
+* *Adding plugins - PlantUML, Svg, Draw*
+* *Export Obsidian*
+
+## PlantUML
 
 ````plantuml
 Bob -> Alice : hello
@@ -12,4 +14,10 @@ Wonderland -> Alice : hello
 Alice -> Bob: hello
 ````
 
+## Pasted Image - png
+
 ![Pasted image 20250520131149.png](Pasted%20image%2020250520131149.png)
+
+## Pasted svg
+
+![cart-svgrepo-com.svg](cart-svgrepo-com.svg)

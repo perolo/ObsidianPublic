@@ -1,5 +1,13 @@
 \#knowledge
 
+## Other
+
+* [Global Consequences of Helicopter Money](Global%20Consequences%20of%20Helicopter%20Money.md)
+* [How to reduce value of the dollar](How%20to%20reduce%20value%20of%20the%20dollar.md)
+* [Oil price analysis](Oil%20price%20analysis.md)
+
+---
+
 Certainly. Here's a step-by-step explanation of how **"helicopter money"** works, structured for an academic or economist audience, with a focus on monetary creation and accounting treatment:
 
 ---
@@ -109,4 +117,4 @@ There are two primary channels, depending on institutional arrangements:
 
 Let me know if you'd like this framed with a specific example (e.g., using the eurozone or the U.S. Fed), or modeled with national accounts.
 
-[Global Consequences of Helicopter Money](../Global%20Consequences%20of%20Helicopter%20Money.md)
+[Global Consequences of Helicopter Money](Global%20Consequences%20of%20Helicopter%20Money.md)
