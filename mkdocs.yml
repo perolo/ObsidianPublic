@@ -1,6 +1,8 @@
 site_name: ObsidianPublic
 nav:
   - Testing formats: Testing formats.md
-  - Knowledge: Resources/Concept of Helicopter money.md
+  - Helicopter money: Resources/Concept of Helicopter money.md
+  - Oil price: Resources/Oil price analysis.md
+
 theme:
   name: readthedocs

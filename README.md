@@ -50,7 +50,7 @@ INFO    -  Writing initial docs: ./docs/index.md
 - Does not understand PlantUML
 - Does not follow move - requires a clean directory
 - Pages available on https://perolo.github.io/ObsidianPublic/
-- Problem found:
+- Problem found: https://github.com/zoni/obsidian-export/issues/87
 ```bash
 $ obsidian-export ../yocreo/Public/ doc
 Error: Failed to export '../yocreo/Public/Resources/Global Consequences of Helicopter Money.md'
