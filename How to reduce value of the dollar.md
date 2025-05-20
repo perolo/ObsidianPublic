@@ -1,6 +1,6 @@
 \#knowledge
 
-[Concept of Helicopter money](Concept%20of%20Helicopter%20money.md)
+[Concept of Helicopter money](Resources/Concept%20of%20Helicopter%20money.md)
 [Global Consequences of Helicopter Money](Global%20Consequences%20of%20Helicopter%20Money.md)
 
 Reducing the value of the U.S. dollar (USD) is a **strategic macroeconomic tool** that can support **exports, manufacturing, and inflation targets**, but it must be approached carefully to avoid undermining global trust in the USD as the world’s reserve currency.
