@@ -2,9 +2,9 @@
 Evaluating public export from Obsidian
 
 
-- [Testing formats](doc/Testing%20formats.md)
+- [Testing formats](docs/Testing%20formats.md)
 - [Testing formats](Testing%20formats.md)
-- [[Export Obsidian]]
+- [[docs/Export Obsidian]]
 - [[Adding plugins - PlantUML, Svg, Draw]]
 
 
@@ -21,12 +21,13 @@ $ obsidian-export ../yocreo/Public/ doc
 ```bash
 $ nix-shell -p mkdocs
 
-$ rm -rf doc/
-$ mkdir doc
+$ rm -rf docs/*
 
 $ obsidian-export ../yocreo/Public/ doc
 
 $ mkdocs serve
+
+$ mkdocs gh-deploy
 
 ```
 
@@ -44,3 +45,17 @@ INFO    -  Writing initial docs: ./docs/index.md
 - Does not understand PlantUML
 - Does not follow move - requires a clean directory
 
+
+## Evaluation of obsidian-export + mkdocs
+- Does not understand PlantUML
+- Does not follow move - requires a clean directory
+- Pages available on https://perolo.github.io/ObsidianPublic/
+- Problem found:
+```bash
+$ obsidian-export ../yocreo/Public/ doc
+Error: Failed to export '../yocreo/Public/Resources/Global Consequences of Helicopter Money.md'
+
+Caused by:
+   0: Failed to decode YAML frontmatter in '../yocreo/Public/Resources/Global Consequences of Helicopter Money.md'
+   1: invalid type: string "Excellent follow-up. Let’s explore the **global consequences**, implications for **trust in the monetary system and currency value**, and examine **historical examples (real and theoretical)** of **helicopter money** in action.", expected a YAML mapping
+```

@@ -1,3 +1,5 @@
+*Adding plugins - PlantUML, Svg, Draw*
+*Export Obsidian*
 
 ````plantuml
 Bob -> Alice : hello
