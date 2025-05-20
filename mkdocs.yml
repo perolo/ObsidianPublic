@@ -1,0 +1,6 @@
+site_name: ObsidianPublic
+nav:
+  - Testing formats: Testing formats.md
+  - Knowledge: Resources/Concept of Helicopter money.md
+theme:
+  name: readthedocs
