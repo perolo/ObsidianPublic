@@ -1,8 +1,11 @@
-\#knowledge
+---
+tags:
+- knowledge
+---
 
 ## Other
 
-* [Concept of Helicopter money](Concept%20of%20Helicopter%20money.md)
+* [Concept of Helicopter money](Money%20and%20Capitalism/Concept%20of%20Helicopter%20money.md)
 
 ## Estimated Impact of a 1 Million Barrels per Day (mb/d) Production Change
 

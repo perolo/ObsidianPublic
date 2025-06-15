@@ -3,9 +3,10 @@ Evaluating public export from Obsidian
 
 
 - [Testing formats](docs/Testing%20formats.md)
-- [Testing formats](Testing%20formats.md)
-- [[docs/Export Obsidian]]
-- [[Adding plugins - PlantUML, Svg, Draw]]
+- [Testing formats](blob/main/docs/Testing%20formats.md)
+- [Index](blob/main/index.md)
+- [Index](https://github.com/perolo/ObsidianPublic/blob/main/docs/Testing%20formats.md)
+- https://perolo.github.io/ObsidianPublic/
 
 
 ## Obsidian-export
